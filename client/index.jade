@@ -5,4 +5,9 @@ html
     title React Bootstrap Webpack | tomchentw
   body
     #react-root
-    script(type="text/javascript" src="#{assetsByChunkName.main}")
+    //- 
+    //- Please notice the async attribute here. Since this template renders
+    //- everything in #react-root using React.js, it's safe to mark the script
+    //- tag "async". We don't need to handle FOUC content in this case.
+    //- 
+    script(async type="text/javascript" src="#{assetsByChunkName.main}")
