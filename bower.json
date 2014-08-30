@@ -1,0 +1,22 @@
+{
+  "name": "react-bootstrap-webpack",
+  "main": "client/scripts/index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tomchentw/react-bootstrap-webpack",
+  "authors": [
+    "tomchentw <developer@tomchentw.com>"
+  ],
+  "description": "React.js + bower.js + webpack starter template",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass-official": "~3.2.0"
+  }
+}
