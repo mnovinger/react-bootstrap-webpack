@@ -5,7 +5,7 @@ var React = require('react/addons');
 var IndexCtrl = React.createClass({
   render () {
     return (
-      <h1>React Bower Webpack</h1>
+      <h1>React Bootstrap Webpack</h1>
     );
   }
 });
