@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-webpack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React.js + bower.js + webpack starter template",
   "main": "client/scripts/index.js",
   "scripts": {

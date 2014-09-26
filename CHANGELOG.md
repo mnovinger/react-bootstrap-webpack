@@ -1,3 +1,11 @@
+### 0.0.3 (2014-09-26)
+
+
+#### Features
+
+* **package.json:** update jsx-loader and tomchentw-npm-dev version ([44a368cb](https://github.com/tomchentw/react-bootstrap-webpack/commit/44a368cbe3b360dc8ce78c3620a0bd58c37712c0))
+
+
 ### 0.0.2 (2014-09-26)
 
 
