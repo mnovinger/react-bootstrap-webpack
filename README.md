@@ -25,8 +25,7 @@ npm run dev
 That's it. After you want to deploy to [GitHub public pages](https://help.github.com/articles/what-are-github-pages), just run:
 
 ```shell
-chmod +x ./misc/deploy-2-gh-pages.sh # run once
-./misc/deploy-2-gh-pages.sh
+./node_modules/.bin/deploy-2-gh-pages
 ```
 
 
